@@ -71,7 +71,7 @@ class App extends Component {
         <p className="App-intro">
           {'This is test deploy'}
           <a href="https://github.com/mars/heroku-cra-node">
-            {'https://github.com/mars/create-react-app-buildpack.git'}
+            {'heroku/nodejs'}
           </a><br/>
         </p>
         <p className="App-intro">
