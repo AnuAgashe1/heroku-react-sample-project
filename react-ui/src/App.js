@@ -65,13 +65,13 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React - ADDED - 1</h2>
+          <h2>Welcome to React - Buildpack ADDED - 1</h2>
           <h3>This is sub title </h3>
         </div>
         <p className="App-intro">
           {'This is test deploy'}
           <a href="https://github.com/mars/heroku-cra-node">
-            {'create-react-app with a custom Node/Express server'}
+            {'https://github.com/mars/create-react-app-buildpack.git'}
           </a><br/>
         </p>
         <p className="App-intro">
